@@ -1,4 +1,4 @@
-# links-uteis
+# links-uteis 
 Repositório para links que eu considero úteis para o meu aprendizado e desenvolvimento profissional.
 
 ## Inspiração 💡
@@ -6,7 +6,11 @@ Repositório para links que eu considero úteis para o meu aprendizado e desenvo
 
 [Ideias de design de página](https://dribbble.com/)
 
+## Recursos úteis 🌟
+[Grid] (https://grid.layoutit.com/)
 
 ## Estudar 📖
 [Java & Python](https://codingbat.com/java)
+
+[Responsividade](https://developers.google.com/web/fundamentals/design-and-ux/responsive/patterns?hl=pt-br)
 
