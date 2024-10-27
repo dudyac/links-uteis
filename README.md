@@ -9,7 +9,11 @@ Repositório para links que eu considero úteis para o meu aprendizado e desenvo
 ## Recursos úteis 🌟
 [Grid](https://grid.layoutit.com/)
 
-## Estudar 📖
+[Ícones](https://www.websiteplanet.com/pt-br/webtools/favicon-generator/)
+
+[Fontes](https://fonts.google.com/)
+
+## Estudos 📖
 [Java & Python](https://codingbat.com/java)
 
 [Responsividade](https://developers.google.com/web/fundamentals/design-and-ux/responsive/patterns?hl=pt-br)
