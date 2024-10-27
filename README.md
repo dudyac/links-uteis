@@ -7,7 +7,7 @@ Repositório para links que eu considero úteis para o meu aprendizado e desenvo
 [Ideias de design de página](https://dribbble.com/)
 
 ## Recursos úteis 🌟
-[Grid] (https://grid.layoutit.com/)
+[Grid](https://grid.layoutit.com/)
 
 ## Estudar 📖
 [Java & Python](https://codingbat.com/java)
