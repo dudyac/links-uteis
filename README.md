@@ -11,6 +11,8 @@ Repositório para links que eu considero úteis para o meu aprendizado e desenvo
 
 [Ícones](https://www.websiteplanet.com/pt-br/webtools/favicon-generator/)
 
+[Ícones](https://www.flaticon.com/)
+
 [Fontes](https://fonts.google.com/)
 
 ## Estudos 📖
