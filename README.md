@@ -25,6 +25,12 @@ Repositório para links que eu considero úteis para o meu aprendizado e desenvo
 
 [Imagens](https://www.pexels.com/pt-br/)
 
+[Formato imagens](https://bennettfeely.com/clippy/)
+
+[Animações](https://animista.net/)
+
+[Formas](https://www.shapedivider.app/)
+
 ## Estudos 📖
 [Java & Python](https://codingbat.com/java)
 
