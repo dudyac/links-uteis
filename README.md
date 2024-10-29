@@ -31,6 +31,8 @@ Repositório para links que eu considero úteis para o meu aprendizado e desenvo
 
 [Formas](https://www.shapedivider.app/)
 
+[All in one](https://www.evernote.design/) 
+
 ## Estudos 📖
 [Java & Python](https://codingbat.com/java)
 
