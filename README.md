@@ -38,3 +38,5 @@ Repositório para links que eu considero úteis para o meu aprendizado e desenvo
 
 [Responsividade](https://developers.google.com/web/fundamentals/design-and-ux/responsive/patterns?hl=pt-br)
 
+[Ideias de projetos](https://github.com/gmartins-dev/links#ideias-de-projetos-para-o-seu-portfolio)
+
