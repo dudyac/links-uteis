@@ -35,6 +35,8 @@ Repositório para links que eu considero úteis para o meu aprendizado e desenvo
 
 [Conferir constraste das cores](https://contrastchecker.online/)
 
+[Gerar paleta de cores](https://mycolor.space/)
+
 ## Estudos 📖
 [Java & Python](https://codingbat.com/java)
 
