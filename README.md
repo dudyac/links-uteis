@@ -44,5 +44,5 @@ Repositório para links que eu considero úteis para o meu aprendizado e desenvo
 
 [Ideias de projetos](https://github.com/gmartins-dev/links#ideias-de-projetos-para-o-seu-portfolio)
 
-[Estudar](https://www.w3schools.com/)
+[W3Schools](https://www.w3schools.com/)
 
