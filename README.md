@@ -33,6 +33,8 @@ Repositório para links que eu considero úteis para o meu aprendizado e desenvo
 
 [All in one](https://www.evernote.design/) 
 
+[Conferir constraste das cores](https://contrastchecker.online/)
+
 ## Estudos 📖
 [Java & Python](https://codingbat.com/java)
 
