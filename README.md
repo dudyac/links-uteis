@@ -6,6 +6,8 @@ Repositório para links que eu considero úteis para o meu aprendizado e desenvo
 
 [Ideias de design de página](https://dribbble.com/)
 
+[CSS Zen Garden](https://csszengarden.com/214/)
+
 ## Recursos úteis 🌟
 [Grid](https://grid.layoutit.com/)
 
