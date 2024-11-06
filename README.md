@@ -39,6 +39,8 @@ Repositório para links que eu considero úteis para o meu aprendizado e desenvo
 
 [Gerar paleta de cores](https://mycolor.space/)
 
+[300 free resources](https://thenextweb.com/news/300-awesome-free-things-massive-list-free-resources-know)
+
 ## Estudos 📖
 [Java & Python](https://codingbat.com/java)
 
