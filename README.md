@@ -41,6 +41,8 @@ Repositório para links que eu considero úteis para o meu aprendizado e desenvo
 
 [300 free resources](https://thenextweb.com/news/300-awesome-free-things-massive-list-free-resources-know)
 
+[Uiverse](https://uiverse.io)
+
 ## Estudos 📖
 [Java & Python](https://codingbat.com/java)
 
