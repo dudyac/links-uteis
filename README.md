@@ -52,6 +52,8 @@ Repositório para links que eu considero úteis para o meu aprendizado e desenvo
 
 [W3Schools](https://www.w3schools.com/)
 
+[W3Schools - Try it HTML](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic)
+
 [Desafios front end](https://www.frontendmentor.io/)
 
 [+ Desafios de front end](https://codier.io/)
