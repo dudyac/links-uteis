@@ -64,4 +64,7 @@ Repositório para links que eu considero úteis para o meu aprendizado e desenvo
 
 [Ideias de projetos](https://github.com/florinpop17/app-ideas)
 
+.
+
+
 
