@@ -67,6 +67,5 @@ Repositório para links que eu considero úteis para o meu aprendizado e desenvo
 [Portugol](https://portugol.dev/)
 
 
-. . . 
 
 
